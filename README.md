@@ -1,6 +1,6 @@
 
 # HKMask for instance segment
-Wang Gaihua  Lin Jinheng  Chen Lei   Dai Yingying   Zhang Tianlun
+Wang Gaihua,  Lin Jinheng,  Chen Lei,   Dai Yingying,   Zhang Tianlun
 
 ![111](https://user-images.githubusercontent.com/52806183/145698950-9bda091f-572b-43e8-942d-7993fe9c0173.png)
 
